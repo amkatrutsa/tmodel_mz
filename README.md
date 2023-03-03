@@ -1,6 +1,7 @@
 # Extension of dynamic mode decomposition for dynamic systems with incomplete information based on t-model of optimal prediction
 
-This repository stores the code which accompanies our paper about the extension of dynamic mode decomposition to the dynamical systems with incomplete information. Also, we propose the approximation of the original extension with t-model. We illustrate the proposed approach by demonstrating the reconstruction of Hamiltonian system dynamics.
+This repository stores the code which accompanies our paper about the extension of dynamic mode decomposition to the dynamic systems with incomplete information. Also, we propose the approximation of the original extension with t-model. We illustrate the proposed approach by demonstrating the reconstruction of Hamiltonian system dynamics. The code and the resulting plots are available [here](./demo.ipynb).
+
 
 
 
